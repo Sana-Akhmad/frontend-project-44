@@ -1,2 +1,3 @@
 #!/usr/bin/env node.
-import { send } from '../src/cli';
+import { send } from '../src/cli.js';
+send()
